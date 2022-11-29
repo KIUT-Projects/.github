@@ -1,10 +1,17 @@
-## Hello I'm Umarov Kamoliddin. I'm member of KIUT (YTIT) ISE-51U (Information System) group 👋
+## Hello I'm Umarov Kamoliddin 👋
+> KIUT (YTIT) ISE-51U (Information System) group
+> 
+> Github: [@UzSoftic](https://github.com/uzsoftic)
+> 
+> Telegram: [@UzSoftic](https://t.me/uzsoftic)
 
-## ✅ Web Application - Frontend | Figma Project
+## Second Year - Forth Semester
+
+#### ✅ Web Application - Frontend | Figma Project
 https://github.com/KIUT-Projects/web-template-folio
 
-## 🔄 Web Application - Frontend | JS Calendar Task
+#### 🔄 Web Application - Frontend | JS Calendar Task
 https://github.com/KIUT-Projects/web-calendar-task
 
-## 🔄 PBL - Project Based Learning | Kitchen POS System (Laravel + Vue)
+#### 🔄 PBL - Project Based Learning | Kitchen POS System (Laravel + Vue)
 https://github.com/KIUT-Projects/pbl-kitchen-pos-system
