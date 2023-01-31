@@ -3,7 +3,7 @@
 #### Github: [@UzSoftic](https://github.com/uzsoftic)
 #### Telegram: [@UzSoftic](https://t.me/uzsoftic)
 
-## Second Year - Forth Semester
+## Second Year - First Semester
 
 #### ✅ Web Application - Frontend | Figma Project
 https://github.com/KIUT-Projects/web-template-folio
