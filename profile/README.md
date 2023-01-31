@@ -1,4 +1,4 @@
-## Hello I'm Umarov Kamoliddin 👋
+## Hello. We are ISE-51U group 👋
 #### KIUT (YTIT) ISE-51U (Information System) group
 #### Github: [@UzSoftic](https://github.com/uzsoftic)
 #### Telegram: [@UzSoftic](https://t.me/uzsoftic)
