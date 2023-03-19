@@ -13,3 +13,11 @@ https://github.com/KIUT-Projects/web-calendar-task
 
 #### ✅ PBL - Project Based Learning | Kitchen POS System (Laravel + Vue)
 https://github.com/KIUT-Projects/pbl-kitchen-pos-system
+
+## Second Year - Second Semester
+
+#### 🔄 Web Application - Online CV Generator (Laravel)
+https://github.com/KIUT-Projects/web-cv-generator
+
+#### 🔄 PBL - Project Based Learning | PBL Vendor (Laravel + Vue)
+https://github.com/KIUT-Projects/pbl-vendor
