@@ -16,11 +16,16 @@ https://github.com/KIUT-Projects/pbl-kitchen-pos-system
 
 ## Second Year - Second Semester
 
-#### 🔄 Web Application - Simple PHP CRUD
-https://github.com/KIUT-Projects/web-crud-admin
+#### 🔄 (Feature) PBL - Project Based Learning | PBL Vendor (Laravel)
+https://github.com/KIUT-Projects/pbl-vendor-laravel
 
 #### 🔄 Web Application - Online CV Generator (Laravel)
 https://github.com/KIUT-Projects/web-cv-generator
 
-#### 🔄 PBL - Project Based Learning | PBL Vendor (Laravel + Vue)
+## Feature Projects
+
+#### ✨ (Feature) Web Application - Simple PHP CRUD
+https://github.com/KIUT-Projects/web-crud-admin
+
+#### ✨ (Feature) PBL - Project Based Learning | PBL Vendor (Laravel + Vue)
 https://github.com/KIUT-Projects/pbl-vendor
