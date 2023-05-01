@@ -16,7 +16,7 @@ https://github.com/KIUT-Projects/pbl-kitchen-pos-system
 
 ## Second Year - Second Semester
 
-#### 🔄 (Feature) PBL - Project Based Learning | PBL Vendor (Laravel)
+#### 🔄 PBL - Project Based Learning | PBL Vendor (Laravel)
 https://github.com/KIUT-Projects/pbl-vendor-laravel
 
 #### 🔄 Web Application - Online CV Generator (Laravel)
